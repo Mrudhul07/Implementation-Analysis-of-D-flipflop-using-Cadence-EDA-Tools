@@ -99,6 +99,8 @@ iii)	Creating the Symbol for schematic Cell view
 ![image](https://github.com/user-attachments/assets/0b699b2f-b07d-40a2-9969-d6d7b61a4e5f)
 
 
+
+
 ## Results:
 The design and implementation of the D-flip-flop using Cadence EDA tools were successfully completed. The simulated results confirmed the correct operation of the flip-flop, with proper synchronization of the input data with the clock signal. Key performance parameters such as propagation delay, power consumption, and area utilization were evaluated, aligning with expected theoretical values.
 
